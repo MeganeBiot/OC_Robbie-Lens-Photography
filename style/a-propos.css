@@ -1,16 +1,16 @@
 .carre-contenu {
   border-right: 1px solid #8e86b5;
   border-bottom: 1px solid #8e86b5;
-  padding: 50px;
-  margin-bottom: 80px;
+  padding: 3rem;
+  margin-bottom: 4rem;
 }
 
 .carre-contenu h2 {
-  margin-top: 30px;
+  margin-top: 2rem;
 }
 
 .carre-contenu ul {
-  margin-top: 30px;
+  margin-top: 2rem;
 }
 
 .carre-contenu + div {
@@ -18,6 +18,35 @@
 }
 
 .a-propos-main {
-  width: 50%;
+  width: 80%;
   margin: auto;
+}
+
+table {
+  color: white;
+  text-align: center;
+  width: 100%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+td,
+th {
+  border: 1px solid #a5b4fc;
+}
+
+th {
+  padding : 1rem;
+}
+
+td {
+  padding: 3rem;
+}
+
+h2 {
+  margin-bottom: 2rem;
+}
+
+h1, h2 {
+  text-align: center;
 }
