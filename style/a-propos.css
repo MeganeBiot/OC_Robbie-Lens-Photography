@@ -55,4 +55,7 @@ h1, h2 {
   .section-tarifs {
     display: none;
   }
+  .a-propos-main {
+    width: 100%;
+  }
 }
